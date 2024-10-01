@@ -21,7 +21,7 @@
 <div>
   <a href="https://github.com/RogerDLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=RogerDLima&layout=compact&langs_count=16&themre=dark" alt="roger-stats") />
+  <img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=RogerDLima&layout=compact&langs_count=16&themre=dark"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
