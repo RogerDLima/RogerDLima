@@ -22,8 +22,8 @@
 
 <p align="left" style="display: flex; align-items:center">
 <a href="https://twitter.com/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twt-roger" height="30" width="30" /></a>
-<a href="https://linkedin.com/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-roger" height="30" width="30" /></a>
-<a href="https://instagram.com/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta-roger" height="30" width="30" /></a>
+<a href="https://linkedin.com/" target="blank" style="margin-left:25px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-roger" height="30" width="30" /></a>
+<a href="https://instagram.com/" target="blank" style="margin-left:25px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta-roger" height="30" width="30" /></a>
 </p>
 
 <div> 
