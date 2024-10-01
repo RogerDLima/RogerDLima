@@ -66,5 +66,5 @@
 
 
   <h3 align="center">Support:</h3>
-<p><a href="https://google.com/?q=rogersz"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saurra3h" /></a></p><br><br>
+<p align="center" ><a href="https://google.com/?q=rogersz"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="roger-coffe" /></a></p><br><br>
 
