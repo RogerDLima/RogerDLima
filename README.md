@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **To understand Chaos, Databases Opmitizing, SaaS building by your own!**
 
-- 👯 I’m looking to collaborate on **Too many as i can**
+- 👯 I’m looking to collaborate on **DIY '&n' Sustainable Projects **
 
 - 👨‍💻 All of my projects are available at [google.com]
 
