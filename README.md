@@ -20,8 +20,7 @@
 
 <div>
   <a href="https://github.com/RogerDLima">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerDLima&layout=donut&langs_count=16&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" /><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerDLima&layout=donut&langs_count=16&theme=dark"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
