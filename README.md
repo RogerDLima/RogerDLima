@@ -10,15 +10,16 @@
 
 - 👯 I’m looking to collaborate on **Too many as i can**
 
-- 👨‍💻 All of my projects are available at [https://jutsu.tech]()
+- 👨‍💻 All of my projects are available at [google.com]
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **Javascript Asyncs, Python, S.E.O & **
 
-- 📫 How to reach me **saurabh10102@gmail.com**
+- 📫 How to reach me **rogeriolimadias@gmail.com**
 
-- ⚡ Fun fact **Developers aren't funny!!**
+- ⚡ Fun fact **Developers aren't funny alone!! soo let's do it togehter it's extremely necessary**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left" style="display: flex; align-items:center">
 <a href="https://twitter.com/saurra3h" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurra3h" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/starc007" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>
