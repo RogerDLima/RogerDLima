@@ -47,13 +47,13 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/saurra3h"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saurra3h" /></a></p><br><br>
+<p><a href="https://google.com/?q=rogersz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saurra3h" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="thatsnice" /></p>
 
 
-Made with ❤, by Saurabh Chauhan
-    
+## Made with ❤, by Rogersz
+## <span style="align-items:center;"> Made with ❤, by Rogersz
 
 
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
