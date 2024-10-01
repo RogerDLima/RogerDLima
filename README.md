@@ -6,13 +6,13 @@
 
 - 🔭 2024 Goal **Build more projects in NextJs, A.I, S.E.O and Database Sets, Web3 and also contribute in Open Source**
 
-- 🌱 I’m currently learning **to remove software chaos, one at a time.**
+- 🌱 I’m currently learning **To understand Chaos, Databases Opmitizing, SaaS building by your own!**
 
 - 👯 I’m looking to collaborate on **Too many as i can**
 
 - 👨‍💻 All of my projects are available at [google.com]
 
-- 💬 Ask me about **Javascript Asyncs, Python, S.E.O & **
+- 💬 Ask me about **Javascript Asyncs, Python, S.E.O & Wordpress**
 
 - 📫 How to reach me **rogeriolimadias@gmail.com**
 
