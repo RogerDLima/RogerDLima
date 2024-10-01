@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rogeriolimadias@gmail.com**
 
-- ⚡ Fun fact **Developers aren't funny alone!! soo let's do it togehter it's extremely necessary**
+- ⚡ Fun fact **Developer isn`t funny alone!! soo let's do it togehter it's extremely necessary**
 
 <div>
   <a href="https://github.com/RogerDLima">
