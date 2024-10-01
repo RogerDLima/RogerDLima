@@ -38,15 +38,11 @@
 <p align="left" style="display: flex; align-items:center; flex-wrap: wrap;"> 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 256 256">
-    <path fill="#6f42c1" d="M128 0c70.7 0 128 57.3 128 128s-57.3 128-128 128S0 198.7 0 128 57.3 0 128 0zm21.6 179.2H97.3v44.2H69V32.5h52.8c39.2 0 58.8 19.8 58.8 50.7 0 20.8-12.7 36.8-29.8 42.2v1.2c23.8 4.6 34.9 21.4 34.9 45.4 0 34.2-25.5 56.2-65.1 56.2zM109.4 73v50.7h35.6c21.4 0 33.5-12.2 33.5-25.5 0-20.2-15.5-25.2-33.1-25.2zm1.5 100.7h34.5c20.5 0 35.1-11 35.1-27.9 0-17.3-13.5-27.3-35.9-27.3h-33.7z"/>
-  </svg>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-       alt="bootstrap" width="40" height="40" 
-       style="filter: hue-rotate(270deg) saturate(500%);"/>
+  <div style="width: 40px; height: 40px; background-color: #6f42c1; display: inline-flex; align-items: center; justify-content: center; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+         alt="bootstrap" width="30" height="30" 
+         style="filter: invert(100%);"/>
+  </div>
 </a>
   
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
