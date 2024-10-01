@@ -52,8 +52,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="thatsnice" /></p>
 
 
-## Made with ❤, by Rogersz
-## <span style="align-items:center;"> Made with ❤, by Rogersz
+<h1 align="center">Made with ❤, by Rogersz</h1>
 
 
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
