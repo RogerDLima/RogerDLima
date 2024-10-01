@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Rogerio Lima Dias</h1>
+<h1 align="center">Hi there👋, I'm Rogério Lima Dias</h1>
 <h3 align="center">Really enjoy and love Buidling things for web !! </h3>
 
 
