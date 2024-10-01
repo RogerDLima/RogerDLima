@@ -18,6 +18,12 @@
 
 - ⚡ Fun fact **Developers aren't funny alone!! soo let's do it togehter it's extremely necessary**
 
+<div>
+  <a href="https://github.com/RogerDLima">
+  <img height="180em" src="https://github-readme-stats-vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
+  <img height="180em" src="" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left" style="display: flex; align-items:center">
