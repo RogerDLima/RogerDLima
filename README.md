@@ -20,8 +20,8 @@
 
 <div>
   <a href="https://github.com/RogerDLima">
-  <img height="180em" src="https://github-readme-stats-vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
-  <img height="180em" src="" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&locale=pt-br" alt="roger-stats") />
 </div>
 
 <h3 align="left">Connect with me:</h3>
