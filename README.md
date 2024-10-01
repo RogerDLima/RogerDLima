@@ -2,15 +2,15 @@
 <h1 align="center">Hi there👋, I'm Rogerio Lima Dias</h1>
 <h3 align="center">Really enjoy and love Buidling things for web !! </h3>
 
-<p align="left"> <a href="https://twitter.com/saurra3h" target="blank"><img src="https://img.shields.io/twitter/follow/saurra3h?logo=twitter&style=for-the-badge" alt="saurra3h" /></a> </p>
 
-- 🔭 2022 Goal **Build more projects in Web3 Space and contribute in Open Source**
+
+- 🔭 2024 Goal **Build more projects in NextJs, A.I, S.E.O and Database Sets, Web3 and also contribute in Open Source**
 
 - 🌱 I’m currently learning **to remove software chaos, one at a time.**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **Too many as i can**
 
-- 👨‍💻 All of my projects are available at [https://jutsu.tech](https://jutsu.tech)
+- 👨‍💻 All of my projects are available at [https://jutsu.tech]()
 
 - 💬 Ask me about **React,Javascript**
 
