@@ -6,17 +6,17 @@
 
 - 🔭 2024 Goal **Build more projects in NextJs, A.I, S.E.O and Database Stacks, Web3 and also contribute in Open Source Scenario!**
 
-- 🌱 I’m currently learning **To understand Chaos, Databases Opmitizing, SaaS building by your own!**
+- 🌱 I’m currently learning ** Databases Postgres + Gis, SaaS building, NextJs,  **
 
-- 👯 I’m looking to collaborate on **DIY '&n' Sustainable Projects **
+- 👯 I’m looking to collaborate on **Micro SaaS  '&n' Sustainable Projects **
 
-- 👨‍💻 All of my projects are available at [google.com]
+- 👨‍💻 All of my projects are available at under_devlopment...
 
-- 💬 Ask me about **Javascript Asyncs, Python, S.E.O & Wordpress**
+- 💬 Ask me about **Javascript, Python, S.E.O , Wordpress, Gis **
 
 - 📫 How to reach me **rogeriolimadias@gmail.com**
 
-- ⚡ Fun fact **Developer isn`t funny alone!! soo let's do it togehter it's extremely necessary**
+- ⚡ Fun fact **Developer isn`t funny alone!! soo let's do it togehter it's call me for code partner**
 
   <a href="https://github.com/RogerDLima">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
