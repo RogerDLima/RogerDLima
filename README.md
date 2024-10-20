@@ -4,7 +4,7 @@
 
 
 
-- 🔭 2024 Goal **Build more projects in NextJs, A.I, S.E.O and Database Stacks, Web3 and also contribute in Open Source Scenario!**
+- 🔭 2024 Goal **Read and insert myself in projects with NextJs, A.I, S.E.O and Web3 and also use more Open Source Tools!**
 
 - 🌱 I’m currently learning ** Databases Postgres + Gis, SaaS building, NextJs,  **
 
