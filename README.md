@@ -6,17 +6,17 @@
 
 - 🔭 2024 Goal **Read and insert myself in projects with NextJs, A.I, S.E.O and Web3 and also use more Open Source Tools!**
 
-- 🌱 I’m currently learning **Databases Postgres + Gis, SaaS building, NextJs,**
+- 🌱 I’m currently learning **Databases Postgres + Gis, SaaS, Next.Js**
 
-- 👯 I’m looking to collaborate on **Micro SaaS  '&n' Sustainable Projects**
+- 👯 I’m looking to collaborate on **Micro SaaS &n Sustainable Projects**
 
-- 👨‍💻 All of my projects are available at under_devlopment...
+- 👨‍💻 All of my projects are available **at under_devlopment...**
 
-- 💬 Ask me about **Javascript, Python, S.E.O , Wordpress, Gis**
+- 💬 Ask me about **Javascript, Python, S.E.O , Wordpress, G.I.S, Eletronic**
 
 - 📫 How to reach me **rogeriolimadias@gmail.com**
 
-- ⚡ Fun fact **Develop isn`t funny alone!! soo Let's do it togehter!! Call me for code partner**
+- ⚡ Fun fact **Develop isn`t funny alone!! soo Let's do it togehter!! Call me for Code Partner**
 
   <a href="https://github.com/RogerDLima">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDLima&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
@@ -63,22 +63,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.fathym.com/img/newnextjslogo.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
 
-
-
- 
-
- 
-
-
- 
-
- 
-
-
-
-
 <h1 align="center">Made with ❤, by Rogersz</h1>
-
 
   <h3 align="center">Support:</h3>
 <p align="center" ><a href="https://google.com/?q=rogersz"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="roger-coffe" /></a></p><br><br>
