@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Rogério Lima Dias</h1>
-<h3 align="center"> Really Love Building things for Web !! Repair Eletronics Stuffs and Terrible Sense of Humor!! </h3>
+<h3 align="center"> Really Love Building things for Web !! Repair Eletronic Stuffs and Terrible Sense of Humor!! </h3>
 
 
 
